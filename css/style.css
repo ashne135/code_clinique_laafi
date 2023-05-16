@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con1{
+    text-decoration: none;
+    color: black;
+}
+.parent{
+display: flex;
+justify-content: space-between;
+top: 10px;
+}
+.logo{
+    width: 75px;
+}
+.horloge{
+    width: 30px;
+}
+span{
+    margin-left: 53px;
+}
+strong{
+    position: absolute;
+    color:#289128 ;
+    top: 30px;
+    left: 15px;
+}
+.laafi{
+    margin-left: 600px;
+}
+.slogan{
+    font-size: small;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+    margin-top: 19px;
+}
+.navigation{
+    font-weight: bold;
+    color: beige;
+}
+.nom{
+    color: #289128;
+    font-weight: bold;
+    margin-left: 3px;
+   
+}
+.silidres{
+    width: 100%;
+    height: 450px;
+}
+.description{
+    display: flex;
+  color: black;
+  font-weight: bold;
+  justify-content: center;
+  text-decoration: underline;
+}
+.entree{
+    width: 450px;
+}
+.vide{
+    width: 450px;
+    margin-top: 0px;
+}
+.texte{
+  margin-left: 530px;  
+  margin-top: -560px;
+  line-height: 40px;
+  
+}
+.bouton{
+    margin-left: 550px;
+    
+}
+.cli{
+    margin-left: 120px;
+}
+.careebleue1{
+    background-color:#2ca5f8;
+    width: auto;
+    height: 760px;
+
+}
+.reanime{
+    width: 430px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.Lorem{
+  
+margin-left: 70px;
+margin-top: 10px;
+    
+}
+.flex{
+    display: flex;
+}
+.reanime2{
+    width: 450px;
+    height: 280px;
+    margin-top: 20px;
+    margin-left: 85px;
+    border-radius: 20px;  
+}
+.Lorem2{
+margin-top: 40px;
+}
+.bouton2{
+    margin-left: 20px;
+}
+.careeblanc{
+    background-color: white;
+    width: auto;
+    height: 640px;
+}
+.enfants{
+    display: flex;
+}
+.reanime3{
+    width: 330px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.reanime4{
+    width: 430px;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 20px; 
+}
+.dolor{
+    margin-top: 10px;
+    margin-left: 18px;
+
+}
+.reanime5{
+    width: 430px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 20px; 
+}  
+.bouton5{
+    margin-left: 15px;
+}
+.carreebleue2{
+    background-color: #2ca5f8;
+    width: auto;
+    height: 730px;
+}
+.stock{
+    width: 180px;
+    flex-direction: column;
+    margin-left: 500px;
+    border-radius: 50px;
+
+}
+.cardio{
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+body{
+    overflow-x: hidden;
+}
+.carreeblanc2{
+    background-color:white;
+    width: auto;
+    height: 500px;
+}
+.moment{
+    border: 5px ;
+    border-radius: 170px !important;
+    justify-content: space-around;
+    height: 250px;
+    width: 250px;
+    /* z-index: 2;
+    margin-top: 5px; */
+}
+.amet{
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.cerveau{
+    width: 100%;
+    height: 450px;
+    opacity: 60%;
+}
+.footer{
+    background: url('../lafi/cerveau.jpg');
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 55vh;
+    
+}
+.logo2{
+    width: 50px;
+    margin-left: 20px;
+}
+.labore{
+    color: beige;
+    font-weight: bold;
+    margin-left: 70px;
+}
+.toutesparent{
+    display: flex;
+    margin-left: 600px;
+}
+.toutes{
+    color: aliceblue;
+}
+.facetw{
+    width: 30px;
+    margin-top: 5px;
+}
+.pp{
+    margin-left: 800px;
+    margin-bottom: 5px;
+}

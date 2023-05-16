@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+display: flex;
+justify-content: space-between;
+top: 10px;
+}
+.logo{
+    width: 75px;
+}
+.horloge{
+    width: 30px;
+}
+span{
+    margin-left: 53px;
+}
+strong{
+    position: absolute;
+    color:#289128 ;
+    top: 30px;
+    left: 15px;
+}
+.laafi{
+    margin-left: 600px;
+}
+.slogan{
+    font-size: small;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+    margin-top: 19px;
+}
+.navigation{
+    font-weight: bold;
+    color: beige;
+}
+.nom{
+    color: #289128;
+    font-weight: bold;
+    margin-left: 3px;
+   
+}
+.silidres{
+    width: 100%;
+    height: 450px;
+}
+.description{
+    display: flex;
+  color: black;
+  font-weight: bold;
+  justify-content: center;
+  text-decoration: underline;
+}
+.entree{
+    width: 450px;
+}
+.vide{
+    width: 450px;
+    margin-top: 0px;
+}
+.texte{
+  margin-left: 530px;  
+  margin-top: -560px;
+  line-height: 40px;
+  
+}
+.bouton{
+    margin-left: 550px;
+    
+}
+.cli{
+    margin-left: 120px;
+}
+.careebleue1{
+    background-color:#2ca5f8;
+    width: auto;
+    height: 760px;
+
+}
+.reanime{
+    width: 430px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.Lorem{
+  
+margin-left: 70px;
+margin-top: 10px;
+    
+}
+.flex{
+    display: flex;
+}

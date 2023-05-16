@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+display: flex;
+justify-content: space-between;
+top: 10px;
+}
+.logo{
+    width: 75px;
+}
+.horloge{
+    width: 30px;
+}
+span{
+    margin-left: 53px;
+}
+strong{
+    position: absolute;
+    color:#289128 ;
+    top: 30px;
+    left: 15px;
+}
+.laafi{
+    margin-left: 600px;
+}
+.slogan{
+    font-size: small;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+    margin-top: 19px;
+}
+.navigation{
+    font-weight: bold;
+    color: beige;
+}
+.nom{
+    color: #289128;
+    font-weight: bold;
+    margin-left: 3px;
+   
+}
+.silidres{
+    width: 100%;
+    height: 450px;
+}
+.description{
+    display: flex;
+  color: black;
+  font-weight: bold;
+  justify-content: center;
+  text-decoration: underline;
+  }
+  .vous{
+    text-align: justify;
+  }
+  .fort{
+    color: #289128;
+    font-weight: 700;
+  }
+  .fort2{
+    color: #289128;
+    font-weight: 500;
+  }
+  /* .oreille{
+    width: 1300px;
+    gap: 20px;
+    margin-left: 9px; */
+  
+  .footer{
+    background: url('../lafi/cerveau.jpg');
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 55vh;
+    
+}
+.logo2{
+    width: 50px;
+    margin-left: 20px;
+}
+.labore{
+    color: beige;
+    font-weight: bold;
+    margin-left: 70px;
+}
+.toutesparent{
+    display: flex;
+    margin-left: 600px;
+}
+.toutes{
+    color: aliceblue;
+}
+.facetw{
+    width: 30px;
+    margin-top: 5px;
+}

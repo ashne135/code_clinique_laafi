@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.login{
+    border: 2px solid black;
+    background-color: rgb(253, 253, 253);
+    width: 300px;
+    height: 400px;
+    margin-left: 380px;
+    margin-top: 70px;
+    border-radius: 15px;
+
+}
+form{
+    margin-left: 15px;
+}
+.input{
+        border-radius: 15px;
+        height: 40px;
+        width: 260px;
+}
+a{
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+    
+}
+ .mdp{
+    margin-left: 106px;
+}
+.sinscrir{
+    margin-left: 26px;
+    
+}
+hr{
+    width: 250px;
+}
+.con{
+    margin-left: 80px;
+    
+}
+button{
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 15px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.rond{
+    border-radius: 15px;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    margin-top: -20px;
+}
+.container_rond{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 75px;
+}
